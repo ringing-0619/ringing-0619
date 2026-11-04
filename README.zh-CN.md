@@ -1,6 +1,6 @@
 [English](README.md) | **简体中文**
 
-# 你好，我是 Siying (Ringing) Song 👋
+# 你好，我是宋思颖（Ringing）👋
 
 - 🎓 **UIUC 商业分析硕士在读** · 预计 2026 年 12 月毕业
 - 💼 前 **爱奇艺 BI 分析实习生**
