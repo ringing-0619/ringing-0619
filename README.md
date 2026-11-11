@@ -27,12 +27,17 @@
 
 ## Products, Design & Tools
 
+### [Gies Sustainability Dashboard](https://github.com/ringing-0619/gies-sustainability-dashboard) · [Demo](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1)
+
+- 🎨 Led a **4-person team** on **UI/UX**, user journeys, information architecture, and data visualization.
+- 🌱 **Figma Make** — built most of the interactive prototype; **simulated data**.
+
 ### [Campus Recruitment Assistant](https://github.com/ringing-0619/campus-recruitment-assistant)
 
 - 🧰 Built a local-first job-search dashboard: applications, email sync, browser capture, and interview tasks.
 - 🤝 **Vibe coding · TypeScript · Node.js · SQLite** — AI-assisted development and product iteration.
 
-### [Gies Sustainability Dashboard](https://github.com/ringing-0619/gies-sustainability-dashboard) · [Demo](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1)
+### [Resume Refill](https://github.com/ringing-0619/resume-refill) · [Demo](https://ringing-0619.github.io/resume-refill/demo/)
 
-- 🎨 Led a **4-person team** on **UI/UX**, user journeys, information architecture, and data visualization.
-- 🌱 **Figma Make** — built most of the interactive prototype; **simulated data**.
+- 📝 Built a **local-first Chrome extension** to manage resume versions and autofill job application forms in English and Chinese.
+- 🤝 **Vibe coding with Codex** — implemented local PDF, DOCX, and TXT imports and a review step for required fields with uncertain matches.

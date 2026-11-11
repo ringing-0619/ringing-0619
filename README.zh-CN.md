@@ -27,12 +27,17 @@
 
 ## 产品、设计与工具
 
+### [Gies 可持续发展看板](https://github.com/ringing-0619/gies-sustainability-dashboard) · [交互演示](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1)
+
+- 🎨 带领 **4 人团队**，主导 **UI/UX**、用户旅程、信息架构与数据可视化设计。
+- 🌱 **Figma Make**：搭建并迭代大部分交互原型；**全部使用模拟数据**。
+
 ### [校招助手](https://github.com/ringing-0619/campus-recruitment-assistant)
 
 - 🧰 自主搭建本地求职工作台：投递追踪、邮件同步、浏览器职位采集、面试待办。
 - 🤝 **Vibe coding · TypeScript · Node.js · SQLite**：AI 协作开发与产品迭代。
 
-### [Gies 可持续发展看板](https://github.com/ringing-0619/gies-sustainability-dashboard) · [交互演示](https://www.figma.com/make/eoPnS9HrlcHqPfPAOvxH1E/Dashboard-Design-for-Metrics--final%EF%BC%89?code-node-id=1-5&p=f&t=R2nXAasMngESzVNB-0&fullscreen=1)
+### [Resume Refill](https://github.com/ringing-0619/resume-refill) · [交互演示](https://ringing-0619.github.io/resume-refill/demo/)
 
-- 🎨 带领 **4 人团队**，主导 **UI/UX**、用户旅程、信息架构与数据可视化设计。
-- 🌱 **Figma Make**：搭建并迭代大部分交互原型；**全部使用模拟数据**。
+- 📝 搭建了一个**本地优先的 Chrome 扩展**，用于管理不同版本的简历，并自动填写中英文求职申请表。
+- 🤝 **Vibe coding with Codex** — 支持在本地导入 PDF、DOCX 和 TXT 简历，必填字段无法可靠匹配时会提示用户确认。
